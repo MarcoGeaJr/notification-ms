@@ -2,7 +2,7 @@
 
 namespace Snotify.Application.Services.Notifiers.EmailNotifiers;
 
-public class EmailNotifierV2 : INotifier
+public class EmailNotifierV1 : INotifier
 {
 	public Task SendAsync(Notification notification)
 	{

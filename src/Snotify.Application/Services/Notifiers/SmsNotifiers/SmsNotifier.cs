@@ -1,4 +1,4 @@
-﻿using Snotify.Domain.Entity;
+﻿using Snotify.Domain.ValueObjects;
 
 namespace Snotify.Application.Services.Notifiers.SmsNotifiers;
 
