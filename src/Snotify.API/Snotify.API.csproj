@@ -22,6 +22,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Snotify.Application\Snotify.Application.csproj" />
     <ProjectReference Include="..\Snotify.Domain\Snotify.Domain.csproj" />
+    <ProjectReference Include="..\Snotify.ServiceDefaults\Snotify.ServiceDefaults.csproj" />
   </ItemGroup>
 
 </Project>
