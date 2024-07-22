@@ -6,9 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="Exceptions\CanceledNotificationException.cs~RFe594cbf.TMP" />
-    <None Remove="Exceptions\SentNotificationException.cs~RFe7a4a7c.TMP" />
-  </ItemGroup>
-
 </Project>
